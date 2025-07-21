@@ -2,19 +2,6 @@
 
 **A full-stack web application that helps individuals and families find low-income housing and related support services.**
 
-## 📚 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [API Endpoints](#api-endpoints)
-- [Environment Variables](#environment-variables)
-- [Testing](#testing)
-- [Deployment](#deployment)
-
 ## 🧠 Overview
 
 Housing Connect is designed to simplify the housing search journey by centralizing affordable housing listings, eligibility filters, and support resources for individuals and families in need.
